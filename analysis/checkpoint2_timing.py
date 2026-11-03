@@ -1,4 +1,3 @@
-"""Exploratory timestamp overlap, NOT PR-commit membership or code-vs-spec ordering."""
 import argparse
 from pathlib import Path
 import pandas as pd
