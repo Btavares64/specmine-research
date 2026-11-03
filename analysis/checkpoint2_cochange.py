@@ -1,4 +1,3 @@
-"""Unique-PR co-change analysis of the SpecMine sample."""
 import argparse
 from pathlib import Path
 import pandas as pd
