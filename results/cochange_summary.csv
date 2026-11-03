@@ -1,0 +1,7 @@
+metric,count
+Original PR rows,5335
+Unique PR keys,5322
+Extra records beyond unique PR keys,13
+Unique PRs co-changing spec and code,4300
+Unique PRs associated with multiple tools,8
+Fully identical PR rows,0

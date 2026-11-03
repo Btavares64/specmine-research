@@ -1,0 +1,5 @@
+metric,count
+Original PR rows,5335
+Unique PR keys,5322
+Co-change PRs after deduplication,4300
+PRs with candidate specification commits during PR window,4270
