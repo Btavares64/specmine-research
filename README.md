@@ -50,4 +50,3 @@ A preliminary repository/time-window join found 4,270 PRs with candidate specifi
 - `results/checkpoint2_results.csv` — output previously generated in local analysis
 - `results/cochange_summary.csv` — independently confirmed terminal counts; regenerate using the script
 
-The scripts were prepared with AI assistance and should be reviewed and understood before the in-class demonstration.
