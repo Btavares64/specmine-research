@@ -1,4 +1,4 @@
-# SpecMine research — CS 599 Checkpoint 2
+# SpecMine research — CS 499 Checkpoint 2
 
 This repository contains a **pilot analysis** of the SpecMine v1.1 sample (July 2026 snapshot) examining whether specification-related pull requests also change code. It is a work in progress, not a completed implementation-timing study.
 
